@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Banten",
+          "men": {
+            "single": "42,07",
+          "married": "55,60",
+          "divorced": "1,09",
+          "widowed": "1,24"
+          }
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jakarta",
+          "men": {
+          "single": "41,91",
+          "married": "55,58",
+          "divorced": "0,97",
+          "widowed": "1,54"
+          }
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jawa Barat",
+          "men": {
+            "single": "38,17",
+          "married": "59,11",
+          "divorced": "1,16",
+          "widowed": "1,56"
+          }
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jawa Tengah",
+          "men": {
+            "single": "36,34",
+          "married": "60,27",
+          "divorced": "0,79",
+          "widowed": "2,60"
+          }
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jawa Timur",
+          "result2019": "78,80",
+          "result2020": "82,69",
+          "result2021": "82,09",
+          "men": {
+            "single": "33,00",
+          "married": "63,30",
+          "divorced": "1,09",
+          "widowed": "2,62"
+          }
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Yogyakarta",
+          "men": {
+            "single": "36,92",
+            "married": "59,57",
+            "divorced": "0,75",
+            "widowed": "2,76"
+          }
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,25 @@
+@keyframes blink {
+  0% { fill: orange; }
+  50% { fill: var(--hover-color); } /* Menggunakan variabel warna dinamis */
+  100% { fill: orange; }
+}
+
+.blinking {
+  animation: blink 2s infinite;
+}
+
+.single-blink {
+  --hover-color: red; /* Warna untuk single */
+}
+
+.married-blink {
+  --hover-color: navy; /* Warna untuk married */
+}
+
+.divorced-blink {
+  --hover-color: purple; /* Warna untuk divorced */
+}
+
+.widowed-blink {
+  --hover-color: darkgray; /* Warna untuk widowed */
+}

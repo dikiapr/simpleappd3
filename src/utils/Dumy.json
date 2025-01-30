@@ -1,0 +1,1664 @@
+{
+    "data":[
+    {
+        "negara": "China",
+        "total_case": 72,
+        "kematian": 5,
+        "dirawat": 22,
+        "tanggal": "01/01/2025"
+    },
+    {
+        "negara": "India",
+        "total_case": 55,
+        "kematian": 4,
+        "dirawat": 15,
+        "tanggal": "02/01/2025"
+    },
+    {
+        "negara": "Indonesia",
+        "total_case": 63,
+        "kematian": 7,
+        "dirawat": 20,
+        "tanggal": "03/01/2025"
+    },
+    {
+        "negara": "Pakistan",
+        "total_case": 28,
+        "kematian": 2,
+        "dirawat": 10,
+        "tanggal": "04/01/2025"
+    },
+    {
+        "negara": "Bangladesh",
+        "total_case": 61,
+        "kematian": 6,
+        "dirawat": 25,
+        "tanggal": "05/01/2025"
+    },
+    {
+        "negara": "Japan",
+        "total_case": 47,
+        "kematian": 3,
+        "dirawat": 17,
+        "tanggal": "06/01/2025"
+    },
+    {
+        "negara": "Vietnam",
+        "total_case": 39,
+        "kematian": 1,
+        "dirawat": 12,
+        "tanggal": "07/01/2025"
+    },
+    {
+        "negara": "Thailand",
+        "total_case": 51,
+        "kematian": 4,
+        "dirawat": 20,
+        "tanggal": "08/01/2025"
+    },
+    {
+        "negara": "Saudi Arabia",
+        "total_case": 19,
+        "kematian": 1,
+        "dirawat": 8,
+        "tanggal": "09/01/2025"
+    },
+    {
+        "negara": "South Korea",
+        "total_case": 27,
+        "kematian": 2,
+        "dirawat": 10,
+        "tanggal": "10/01/2025"
+    },
+    {
+        "negara": "Malaysia",
+        "total_case": 44,
+        "kematian": 3,
+        "dirawat": 16,
+        "tanggal": "11/01/2025"
+    },
+    {
+        "negara": "Nepal",
+        "total_case": 12,
+        "kematian": 1,
+        "dirawat": 5,
+        "tanggal": "12/01/2025"
+    },
+    {
+        "negara": "Afghanistan",
+        "total_case": 29,
+        "kematian": 2,
+        "dirawat": 8,
+        "tanggal": "13/01/2025"
+    },
+    {
+        "negara": "Iraq",
+        "total_case": 34,
+        "kematian": 4,
+        "dirawat": 12,
+        "tanggal": "14/01/2025"
+    },
+    {
+        "negara": "Sri Lanka",
+        "total_case": 40,
+        "kematian": 5,
+        "dirawat": 18,
+        "tanggal": "15/01/2025"
+    },
+    {
+        "negara": "Myanmar",
+        "total_case": 15,
+        "kematian": 1,
+        "dirawat": 6,
+        "tanggal": "16/01/2025"
+    },
+    {
+        "negara": "Jordan",
+        "total_case": 53,
+        "kematian": 2,
+        "dirawat": 22,
+        "tanggal": "17/01/2025"
+    },
+    {
+        "negara": "Kuwait",
+        "total_case": 31,
+        "kematian": 3,
+        "dirawat": 11,
+        "tanggal": "18/01/2025"
+    },
+    {
+        "negara": "Uzbekistan",
+        "total_case": 9,
+        "kematian": 0,
+        "dirawat": 4,
+        "tanggal": "19/01/2025"
+    },
+    {
+        "negara": "Qatar",
+        "total_case": 22,
+        "kematian": 1,
+        "dirawat": 9,
+        "tanggal": "20/01/2025"
+    },
+    {
+        "negara": "Oman",
+        "total_case": 35,
+        "kematian": 2,
+        "dirawat": 14,
+        "tanggal": "21/01/2025"
+    },
+    {
+        "negara": "Bahrain",
+        "total_case": 50,
+        "kematian": 3,
+        "dirawat": 18,
+        "tanggal": "22/01/2025"
+    },
+    {
+        "negara": "Yemen",
+        "total_case": 16,
+        "kematian": 1,
+        "dirawat": 7,
+        "tanggal": "23/01/2025"
+    },
+    {
+        "negara": "Kazakhstan",
+        "total_case": 19,
+        "kematian": 2,
+        "dirawat": 7,
+        "tanggal": "24/01/2025"
+    },
+    {
+        "negara": "Armenia",
+        "total_case": 25,
+        "kematian": 2,
+        "dirawat": 9,
+        "tanggal": "25/01/2025"
+    },
+    {
+        "negara": "Georgia",
+        "total_case": 17,
+        "kematian": 1,
+        "dirawat": 6,
+        "tanggal": "26/01/2025"
+    },
+    {
+        "negara": "Turkmenistan",
+        "total_case": 44,
+        "kematian": 3,
+        "dirawat": 16,
+        "tanggal": "27/01/2025"
+    },
+    {
+        "negara": "Kyrgyzstan",
+        "total_case": 39,
+        "kematian": 2,
+        "dirawat": 13,
+        "tanggal": "28/01/2025"
+    },
+    {
+        "negara": "Tajikistan",
+        "total_case": 16,
+        "kematian": 1,
+        "dirawat": 7,
+        "tanggal": "29/01/2025"
+    },
+    {
+        "negara": "Mongolia",
+        "total_case": 56,
+        "kematian": 4,
+        "dirawat": 23,
+        "tanggal": "30/01/2025"
+    },
+    {
+        "negara": "Taiwan",
+        "total_case": 24,
+        "kematian": 2,
+        "dirawat": 8,
+        "tanggal": "01/01/2025"
+    },
+    {
+        "negara": "Philippines",
+        "total_case": 51,
+        "kematian": 3,
+        "dirawat": 20,
+        "tanggal": "02/01/2025"
+    },
+    {
+        "negara": "Bangladesh",
+        "total_case": 72,
+        "kematian": 6,
+        "dirawat": 30,
+        "tanggal": "03/01/2025"
+    },
+    {
+        "negara": "Singapore",
+        "total_case": 43,
+        "kematian": 2,
+        "dirawat": 18,
+        "tanggal": "04/01/2025"
+    },
+    {
+        "negara": "Indonesia",
+        "total_case": 36,
+        "kematian": 3,
+        "dirawat": 14,
+        "tanggal": "05/01/2025"
+    },
+    {
+        "negara": "Japan",
+        "total_case": 38,
+        "kematian": 2,
+        "dirawat": 14,
+        "tanggal": "06/01/2025"
+    },
+    {
+        "negara": "India",
+        "total_case": 49,
+        "kematian": 4,
+        "dirawat": 18,
+        "tanggal": "07/01/2025"
+    },
+    {
+        "negara": "Nepal",
+        "total_case": 62,
+        "kematian": 5,
+        "dirawat": 25,
+        "tanggal": "08/01/2025"
+    },
+    {
+        "negara": "Pakistan",
+        "total_case": 33,
+        "kematian": 3,
+        "dirawat": 12,
+        "tanggal": "09/01/2025"
+    },
+    {
+        "negara": "Sri Lanka",
+        "total_case": 27,
+        "kematian": 2,
+        "dirawat": 11,
+        "tanggal": "10/01/2025"
+    },
+    {
+        "negara": "Thailand",
+        "total_case": 56,
+        "kematian": 3,
+        "dirawat": 22,
+        "tanggal": "11/01/2025"
+    },
+    {
+        "negara": "Vietnam",
+        "total_case": 12,
+        "kematian": 1,
+        "dirawat": 5,
+        "tanggal": "12/01/2025"
+    },
+    {
+        "negara": "Malaysia",
+        "total_case": 71,
+        "kematian": 5,
+        "dirawat": 30,
+        "tanggal": "13/01/2025"
+    },
+    {
+        "negara": "South Korea",
+        "total_case": 64,
+        "kematian": 4,
+        "dirawat": 28,
+        "tanggal": "14/01/2025"
+    },
+    {
+        "negara": "Jordan",
+        "total_case": 46,
+        "kematian": 3,
+        "dirawat": 18,
+        "tanggal": "15/01/2025"
+    },
+    {
+        "negara": "Iraq",
+        "total_case": 60,
+        "kematian": 5,
+        "dirawat": 23,
+        "tanggal": "16/01/2025"
+    },
+    {
+        "negara": "Uzbekistan",
+        "total_case": 50,
+        "kematian": 3,
+        "dirawat": 20,
+        "tanggal": "17/01/2025"
+    },
+    {
+        "negara": "Afghanistan",
+        "total_case": 31,
+        "kematian": 2,
+        "dirawat": 12,
+        "tanggal": "18/01/2025"
+    },
+    {
+        "negara": "Bahrain",
+        "total_case": 58,
+        "kematian": 4,
+        "dirawat": 25,
+        "tanggal": "19/01/2025"
+    },
+    {
+        "negara": "Yemen",
+        "total_case": 39,
+        "kematian": 3,
+        "dirawat": 15,
+        "tanggal": "20/01/2025"
+    },
+    {
+        "negara": "Kuwait",
+        "total_case": 45,
+        "kematian": 3,
+        "dirawat": 20,
+        "tanggal": "21/01/2025"
+    },
+    {
+        "negara": "Kazakhstan",
+        "total_case": 33,
+        "kematian": 2,
+        "dirawat": 14,
+        "tanggal": "22/01/2025"
+    },
+    {
+        "negara": "Armenia",
+        "total_case": 55,
+        "kematian": 4,
+        "dirawat": 24,
+        "tanggal": "23/01/2025"
+    },
+    {
+        "negara": "China",
+        "total_case": 78,
+        "kematian": 6,
+        "dirawat": 24,
+        "tanggal": "01/02/2025"
+    },
+    {
+        "negara": "India",
+        "total_case": 62,
+        "kematian": 5,
+        "dirawat": 20,
+        "tanggal": "02/02/2025"
+    },
+    {
+        "negara": "Indonesia",
+        "total_case": 68,
+        "kematian": 8,
+        "dirawat": 25,
+        "tanggal": "03/02/2025"
+    },
+    {
+        "negara": "Pakistan",
+        "total_case": 32,
+        "kematian": 3,
+        "dirawat": 12,
+        "tanggal": "04/02/2025"
+    },
+    {
+        "negara": "Bangladesh",
+        "total_case": 70,
+        "kematian": 6,
+        "dirawat": 28,
+        "tanggal": "05/02/2025"
+    },
+    {
+        "negara": "Japan",
+        "total_case": 54,
+        "kematian": 4,
+        "dirawat": 18,
+        "tanggal": "06/02/2025"
+    },
+    {
+        "negara": "Vietnam",
+        "total_case": 41,
+        "kematian": 2,
+        "dirawat": 14,
+        "tanggal": "07/02/2025"
+    },
+    {
+        "negara": "Thailand",
+        "total_case": 59,
+        "kematian": 5,
+        "dirawat": 21,
+        "tanggal": "08/02/2025"
+    },
+    {
+        "negara": "Saudi Arabia",
+        "total_case": 23,
+        "kematian": 2,
+        "dirawat": 9,
+        "tanggal": "09/02/2025"
+    },
+    {
+        "negara": "South Korea",
+        "total_case": 30,
+        "kematian": 2,
+        "dirawat": 12,
+        "tanggal": "10/02/2025"
+    },
+    {
+        "negara": "Malaysia",
+        "total_case": 51,
+        "kematian": 4,
+        "dirawat": 18,
+        "tanggal": "11/02/2025"
+    },
+    {
+        "negara": "Nepal",
+        "total_case": 14,
+        "kematian": 1,
+        "dirawat": 6,
+        "tanggal": "12/02/2025"
+    },
+    {
+        "negara": "Afghanistan",
+        "total_case": 31,
+        "kematian": 2,
+        "dirawat": 10,
+        "tanggal": "13/02/2025"
+    },
+    {
+        "negara": "Iraq",
+        "total_case": 37,
+        "kematian": 4,
+        "dirawat": 14,
+        "tanggal": "14/02/2025"
+    },
+    {
+        "negara": "Sri Lanka",
+        "total_case": 42,
+        "kematian": 6,
+        "dirawat": 18,
+        "tanggal": "15/02/2025"
+    },
+    {
+        "negara": "Myanmar",
+        "total_case": 17,
+        "kematian": 1,
+        "dirawat": 7,
+        "tanggal": "16/02/2025"
+    },
+    {
+        "negara": "Jordan",
+        "total_case": 58,
+        "kematian": 3,
+        "dirawat": 22,
+        "tanggal": "17/02/2025"
+    },
+    {
+        "negara": "Kuwait",
+        "total_case": 34,
+        "kematian": 2,
+        "dirawat": 13,
+        "tanggal": "18/02/2025"
+    },
+    {
+        "negara": "Uzbekistan",
+        "total_case": 12,
+        "kematian": 1,
+        "dirawat": 5,
+        "tanggal": "19/02/2025"
+    },
+    {
+        "negara": "Qatar",
+        "total_case": 25,
+        "kematian": 2,
+        "dirawat": 10,
+        "tanggal": "20/02/2025"
+    },
+    {
+        "negara": "Oman",
+        "total_case": 38,
+        "kematian": 3,
+        "dirawat": 14,
+        "tanggal": "21/02/2025"
+    },
+    {
+        "negara": "Bahrain",
+        "total_case": 53,
+        "kematian": 3,
+        "dirawat": 20,
+        "tanggal": "22/02/2025"
+    },
+    {
+        "negara": "Yemen",
+        "total_case": 18,
+        "kematian": 2,
+        "dirawat": 8,
+        "tanggal": "23/02/2025"
+    },
+    {
+        "negara": "Kazakhstan",
+        "total_case": 21,
+        "kematian": 1,
+        "dirawat": 9,
+        "tanggal": "24/02/2025"
+    },
+    {
+        "negara": "Armenia",
+        "total_case": 28,
+        "kematian": 2,
+        "dirawat": 10,
+        "tanggal": "25/02/2025"
+    },
+    {
+        "negara": "Georgia",
+        "total_case": 19,
+        "kematian": 1,
+        "dirawat": 8,
+        "tanggal": "26/02/2025"
+    },
+    {
+        "negara": "Turkmenistan",
+        "total_case": 49,
+        "kematian": 3,
+        "dirawat": 17,
+        "tanggal": "27/02/2025"
+    },
+    {
+        "negara": "Kyrgyzstan",
+        "total_case": 44,
+        "kematian": 3,
+        "dirawat": 15,
+        "tanggal": "28/02/2025"
+    },
+    {
+        "negara": "Tajikistan",
+        "total_case": 17,
+        "kematian": 1,
+        "dirawat": 6,
+        "tanggal": "29/02/2025"
+    },
+    {
+        "negara": "Mongolia",
+        "total_case": 62,
+        "kematian": 5,
+        "dirawat": 22,
+        "tanggal": "30/02/2025"
+    },
+    {
+        "negara": "Taiwan",
+        "total_case": 27,
+        "kematian": 2,
+        "dirawat": 10,
+        "tanggal": "01/02/2025"
+    },
+    {
+        "negara": "Philippines",
+        "total_case": 58,
+        "kematian": 4,
+        "dirawat": 22,
+        "tanggal": "02/02/2025"
+    },
+    {
+        "negara": "Bangladesh",
+        "total_case": 74,
+        "kematian": 7,
+        "dirawat": 32,
+        "tanggal": "03/02/2025"
+    },
+    {
+        "negara": "Singapore",
+        "total_case": 48,
+        "kematian": 3,
+        "dirawat": 19,
+        "tanggal": "04/02/2025"
+    },
+    {
+        "negara": "Indonesia",
+        "total_case": 40,
+        "kematian": 3,
+        "dirawat": 16,
+        "tanggal": "05/02/2025"
+    },
+    {
+        "negara": "Japan",
+        "total_case": 41,
+        "kematian": 3,
+        "dirawat": 15,
+        "tanggal": "06/02/2025"
+    },
+    {
+        "negara": "India",
+        "total_case": 53,
+        "kematian": 4,
+        "dirawat": 19,
+        "tanggal": "07/02/2025"
+    },
+    {
+        "negara": "Nepal",
+        "total_case": 67,
+        "kematian": 6,
+        "dirawat": 28,
+        "tanggal": "08/02/2025"
+    },
+    {
+        "negara": "Pakistan",
+        "total_case": 38,
+        "kematian": 3,
+        "dirawat": 14,
+        "tanggal": "09/02/2025"
+    },
+    {
+        "negara": "Sri Lanka",
+        "total_case": 32,
+        "kematian": 2,
+        "dirawat": 12,
+        "tanggal": "10/02/2025"
+    },
+    {
+        "negara": "Thailand",
+        "total_case": 63,
+        "kematian": 5,
+        "dirawat": 23,
+        "tanggal": "11/02/2025"
+    },
+    {
+        "negara": "Vietnam",
+        "total_case": 14,
+        "kematian": 1,
+        "dirawat": 6,
+        "tanggal": "12/02/2025"
+    },
+    {
+        "negara": "Malaysia",
+        "total_case": 72,
+        "kematian": 6,
+        "dirawat": 32,
+        "tanggal": "13/02/2025"
+    },
+    {
+        "negara": "South Korea",
+        "total_case": 68,
+        "kematian": 4,
+        "dirawat": 29,
+        "tanggal": "14/02/2025"
+    },
+    {
+        "negara": "Jordan",
+        "total_case": 50,
+        "kematian": 3,
+        "dirawat": 20,
+        "tanggal": "15/02/2025"
+    },
+    {
+        "negara": "Iraq",
+        "total_case": 63,
+        "kematian": 5,
+        "dirawat": 24,
+        "tanggal": "16/02/2025"
+    },
+    {
+        "negara": "Uzbekistan",
+        "total_case": 55,
+        "kematian": 4,
+        "dirawat": 21,
+        "tanggal": "17/02/2025"
+    },
+    {
+        "negara": "China",
+        "total_case": 82,
+        "kematian": 7,
+        "dirawat": 26,
+        "tanggal": "01/03/2025"
+    },
+    {
+        "negara": "India",
+        "total_case": 65,
+        "kematian": 6,
+        "dirawat": 22,
+        "tanggal": "02/03/2025"
+    },
+    {
+        "negara": "Indonesia",
+        "total_case": 70,
+        "kematian": 9,
+        "dirawat": 27,
+        "tanggal": "03/03/2025"
+    },
+    {
+        "negara": "Pakistan",
+        "total_case": 35,
+        "kematian": 3,
+        "dirawat": 13,
+        "tanggal": "04/03/2025"
+    },
+    {
+        "negara": "Bangladesh",
+        "total_case": 74,
+        "kematian": 7,
+        "dirawat": 31,
+        "tanggal": "05/03/2025"
+    },
+    {
+        "negara": "Japan",
+        "total_case": 58,
+        "kematian": 5,
+        "dirawat": 20,
+        "tanggal": "06/03/2025"
+    },
+    {
+        "negara": "Vietnam",
+        "total_case": 43,
+        "kematian": 3,
+        "dirawat": 15,
+        "tanggal": "07/03/2025"
+    },
+    {
+        "negara": "Thailand",
+        "total_case": 62,
+        "kematian": 6,
+        "dirawat": 23,
+        "tanggal": "08/03/2025"
+    },
+    {
+        "negara": "Saudi Arabia",
+        "total_case": 25,
+        "kematian": 2,
+        "dirawat": 10,
+        "tanggal": "09/03/2025"
+    },
+    {
+        "negara": "South Korea",
+        "total_case": 33,
+        "kematian": 3,
+        "dirawat": 14,
+        "tanggal": "10/03/2025"
+    },
+    {
+        "negara": "Malaysia",
+        "total_case": 53,
+        "kematian": 4,
+        "dirawat": 19,
+        "tanggal": "11/03/2025"
+    },
+    {
+        "negara": "Nepal",
+        "total_case": 16,
+        "kematian": 1,
+        "dirawat": 7,
+        "tanggal": "12/03/2025"
+    },
+    {
+        "negara": "Afghanistan",
+        "total_case": 33,
+        "kematian": 2,
+        "dirawat": 12,
+        "tanggal": "13/03/2025"
+    },
+    {
+        "negara": "Iraq",
+        "total_case": 39,
+        "kematian": 5,
+        "dirawat": 15,
+        "tanggal": "14/03/2025"
+    },
+    {
+        "negara": "Sri Lanka",
+        "total_case": 45,
+        "kematian": 7,
+        "dirawat": 20,
+        "tanggal": "15/03/2025"
+    },
+    {
+        "negara": "Myanmar",
+        "total_case": 19,
+        "kematian": 1,
+        "dirawat": 8,
+        "tanggal": "16/03/2025"
+    },
+    {
+        "negara": "Jordan",
+        "total_case": 60,
+        "kematian": 4,
+        "dirawat": 23,
+        "tanggal": "17/03/2025"
+    },
+    {
+        "negara": "Kuwait",
+        "total_case": 37,
+        "kematian": 2,
+        "dirawat": 14,
+        "tanggal": "18/03/2025"
+    },
+    {
+        "negara": "Uzbekistan",
+        "total_case": 13,
+        "kematian": 1,
+        "dirawat": 5,
+        "tanggal": "19/03/2025"
+    },
+    {
+        "negara": "Qatar",
+        "total_case": 27,
+        "kematian": 2,
+        "dirawat": 11,
+        "tanggal": "20/03/2025"
+    },
+    {
+        "negara": "Oman",
+        "total_case": 40,
+        "kematian": 3,
+        "dirawat": 15,
+        "tanggal": "21/03/2025"
+    },
+    {
+        "negara": "Bahrain",
+        "total_case": 56,
+        "kematian": 4,
+        "dirawat": 21,
+        "tanggal": "22/03/2025"
+    },
+    {
+        "negara": "Yemen",
+        "total_case": 20,
+        "kematian": 2,
+        "dirawat": 9,
+        "tanggal": "23/03/2025"
+    },
+    {
+        "negara": "Kazakhstan",
+        "total_case": 24,
+        "kematian": 2,
+        "dirawat": 10,
+        "tanggal": "24/03/2025"
+    },
+    {
+        "negara": "Armenia",
+        "total_case": 30,
+        "kematian": 2,
+        "dirawat": 12,
+        "tanggal": "25/03/2025"
+    },
+    {
+        "negara": "Georgia",
+        "total_case": 21,
+        "kematian": 1,
+        "dirawat": 9,
+        "tanggal": "26/03/2025"
+    },
+    {
+        "negara": "Turkmenistan",
+        "total_case": 52,
+        "kematian": 3,
+        "dirawat": 19,
+        "tanggal": "27/03/2025"
+    },
+    {
+        "negara": "Kyrgyzstan",
+        "total_case": 46,
+        "kematian": 3,
+        "dirawat": 17,
+        "tanggal": "28/03/2025"
+    },
+    {
+        "negara": "Tajikistan",
+        "total_case": 18,
+        "kematian": 1,
+        "dirawat": 7,
+        "tanggal": "29/03/2025"
+    },
+    {
+        "negara": "Mongolia",
+        "total_case": 64,
+        "kematian": 5,
+        "dirawat": 24,
+        "tanggal": "30/03/2025"
+    },
+    {
+        "negara": "Taiwan",
+        "total_case": 28,
+        "kematian": 2,
+        "dirawat": 11,
+        "tanggal": "01/03/2025"
+    },
+    {
+        "negara": "Philippines",
+        "total_case": 61,
+        "kematian": 4,
+        "dirawat": 23,
+        "tanggal": "02/03/2025"
+    },
+    {
+        "negara": "Bangladesh",
+        "total_case": 75,
+        "kematian": 8,
+        "dirawat": 33,
+        "tanggal": "03/03/2025"
+    },
+    {
+        "negara": "Singapore",
+        "total_case": 50,
+        "kematian": 3,
+        "dirawat": 20,
+        "tanggal": "04/03/2025"
+    },
+    {
+        "negara": "Indonesia",
+        "total_case": 43,
+        "kematian": 4,
+        "dirawat": 16,
+        "tanggal": "05/03/2025"
+    },
+    {
+        "negara": "Japan",
+        "total_case": 46,
+        "kematian": 3,
+        "dirawat": 17,
+        "tanggal": "06/03/2025"
+    },
+    {
+        "negara": "India",
+        "total_case": 56,
+        "kematian": 5,
+        "dirawat": 21,
+        "tanggal": "07/03/2025"
+    },
+    {
+        "negara": "Nepal",
+        "total_case": 70,
+        "kematian": 7,
+        "dirawat": 29,
+        "tanggal": "08/03/2025"
+    },
+    {
+        "negara": "Pakistan",
+        "total_case": 41,
+        "kematian": 3,
+        "dirawat": 15,
+        "tanggal": "09/03/2025"
+    },
+    {
+        "negara": "Sri Lanka",
+        "total_case": 34,
+        "kematian": 2,
+        "dirawat": 13,
+        "tanggal": "10/03/2025"
+    },
+    {
+        "negara": "Thailand",
+        "total_case": 65,
+        "kematian": 5,
+        "dirawat": 24,
+        "tanggal": "11/03/2025"
+    },
+    {
+        "negara": "Vietnam",
+        "total_case": 16,
+        "kematian": 1,
+        "dirawat": 7,
+        "tanggal": "12/03/2025"
+    },
+    {
+        "negara": "Malaysia",
+        "total_case": 75,
+        "kematian": 7,
+        "dirawat": 34,
+        "tanggal": "13/03/2025"
+    },
+    {
+        "negara": "South Korea",
+        "total_case": 71,
+        "kematian": 5,
+        "dirawat": 30,
+        "tanggal": "14/03/2025"
+    },
+    {
+        "negara": "Jordan",
+        "total_case": 54,
+        "kematian": 4,
+        "dirawat": 22,
+        "tanggal": "15/03/2025"
+    },
+    {
+        "negara": "Iraq",
+        "total_case": 67,
+        "kematian": 6,
+        "dirawat": 26,
+        "tanggal": "16/03/2025"
+    },
+    {
+        "negara": "Uzbekistan",
+        "total_case": 59,
+        "kematian": 4,
+        "dirawat": 22,
+        "tanggal": "17/03/2025"
+    },
+    {
+        "negara": "Germany",
+        "total_case": 72,
+        "kematian": 5,
+        "dirawat": 30,
+        "tanggal": "01/01/2025"
+    },
+    {
+        "negara": "France",
+        "total_case": 68,
+        "kematian": 4,
+        "dirawat": 25,
+        "tanggal": "02/01/2025"
+    },
+    {
+        "negara": "Italy",
+        "total_case": 55,
+        "kematian": 3,
+        "dirawat": 20,
+        "tanggal": "03/01/2025"
+    },
+    {
+        "negara": "Spain",
+        "total_case": 82,
+        "kematian": 6,
+        "dirawat": 35,
+        "tanggal": "04/01/2025"
+    },
+    {
+        "negara": "United Kingdom",
+        "total_case": 63,
+        "kematian": 5,
+        "dirawat": 26,
+        "tanggal": "05/01/2025"
+    },
+    {
+        "negara": "Poland",
+        "total_case": 44,
+        "kematian": 3,
+        "dirawat": 18,
+        "tanggal": "06/01/2025"
+    },
+    {
+        "negara": "Netherlands",
+        "total_case": 50,
+        "kematian": 4,
+        "dirawat": 22,
+        "tanggal": "07/01/2025"
+    },
+    {
+        "negara": "Belgium",
+        "total_case": 47,
+        "kematian": 3,
+        "dirawat": 21,
+        "tanggal": "08/01/2025"
+    },
+    {
+        "negara": "Sweden",
+        "total_case": 60,
+        "kematian": 5,
+        "dirawat": 25,
+        "tanggal": "09/01/2025"
+    },
+    {
+        "negara": "Norway",
+        "total_case": 36,
+        "kematian": 2,
+        "dirawat": 15,
+        "tanggal": "10/01/2025"
+    },
+    {
+        "negara": "Denmark",
+        "total_case": 52,
+        "kematian": 4,
+        "dirawat": 21,
+        "tanggal": "11/01/2025"
+    },
+    {
+        "negara": "Finland",
+        "total_case": 39,
+        "kematian": 3,
+        "dirawat": 17,
+        "tanggal": "12/01/2025"
+    },
+    {
+        "negara": "Portugal",
+        "total_case": 59,
+        "kematian": 5,
+        "dirawat": 23,
+        "tanggal": "13/01/2025"
+    },
+    {
+        "negara": "Austria",
+        "total_case": 48,
+        "kematian": 3,
+        "dirawat": 19,
+        "tanggal": "14/01/2025"
+    },
+    {
+        "negara": "Switzerland",
+        "total_case": 56,
+        "kematian": 4,
+        "dirawat": 22,
+        "tanggal": "15/01/2025"
+    },
+    {
+        "negara": "Greece",
+        "total_case": 61,
+        "kematian": 4,
+        "dirawat": 27,
+        "tanggal": "16/01/2025"
+    },
+    {
+        "negara": "Czech Republic",
+        "total_case": 42,
+        "kematian": 3,
+        "dirawat": 16,
+        "tanggal": "17/01/2025"
+    },
+    {
+        "negara": "Hungary",
+        "total_case": 51,
+        "kematian": 3,
+        "dirawat": 21,
+        "tanggal": "18/01/2025"
+    },
+    {
+        "negara": "Romania",
+        "total_case": 38,
+        "kematian": 2,
+        "dirawat": 15,
+        "tanggal": "19/01/2025"
+    },
+    {
+        "negara": "Slovakia",
+        "total_case": 29,
+        "kematian": 2,
+        "dirawat": 11,
+        "tanggal": "20/01/2025"
+    },
+    {
+        "negara": "Bulgaria",
+        "total_case": 45,
+        "kematian": 3,
+        "dirawat": 17,
+        "tanggal": "21/01/2025"
+    },
+    {
+        "negara": "Croatia",
+        "total_case": 37,
+        "kematian": 2,
+        "dirawat": 14,
+        "tanggal": "22/01/2025"
+    },
+    {
+        "negara": "Serbia",
+        "total_case": 40,
+        "kematian": 3,
+        "dirawat": 15,
+        "tanggal": "23/01/2025"
+    },
+    {
+        "negara": "Albania",
+        "total_case": 28,
+        "kematian": 2,
+        "dirawat": 10,
+        "tanggal": "24/01/2025"
+    },
+    {
+        "negara": "North Macedonia",
+        "total_case": 33,
+        "kematian": 2,
+        "dirawat": 12,
+        "tanggal": "25/01/2025"
+    },
+    {
+        "negara": "Bosnia and Herzegovina",
+        "total_case": 38,
+        "kematian": 3,
+        "dirawat": 15,
+        "tanggal": "26/01/2025"
+    },
+    {
+        "negara": "Montenegro",
+        "total_case": 27,
+        "kematian": 1,
+        "dirawat": 9,
+        "tanggal": "27/01/2025"
+    },
+    {
+        "negara": "Kosovo",
+        "total_case": 25,
+        "kematian": 1,
+        "dirawat": 8,
+        "tanggal": "28/01/2025"
+    },
+    {
+        "negara": "Moldova",
+        "total_case": 22,
+        "kematian": 1,
+        "dirawat": 7,
+        "tanggal": "29/01/2025"
+    },
+    {
+        "negara": "Liechtenstein",
+        "total_case": 18,
+        "kematian": 1,
+        "dirawat": 6,
+        "tanggal": "30/01/2025"
+    },
+    {
+        "negara": "Germany",
+        "total_case": 61,
+        "kematian": 4,
+        "dirawat": 25,
+        "tanggal": "01/02/2025"
+    },
+    {
+        "negara": "France",
+        "total_case": 75,
+        "kematian": 6,
+        "dirawat": 28,
+        "tanggal": "02/02/2025"
+    },
+    {
+        "negara": "Italy",
+        "total_case": 65,
+        "kematian": 5,
+        "dirawat": 24,
+        "tanggal": "03/02/2025"
+    },
+    {
+        "negara": "Spain",
+        "total_case": 79,
+        "kematian": 7,
+        "dirawat": 32,
+        "tanggal": "04/02/2025"
+    },
+    {
+        "negara": "United Kingdom",
+        "total_case": 57,
+        "kematian": 4,
+        "dirawat": 22,
+        "tanggal": "05/02/2025"
+    },
+    {
+        "negara": "Poland",
+        "total_case": 49,
+        "kematian": 3,
+        "dirawat": 21,
+        "tanggal": "06/02/2025"
+    },
+    {
+        "negara": "Netherlands",
+        "total_case": 52,
+        "kematian": 4,
+        "dirawat": 23,
+        "tanggal": "07/02/2025"
+    },
+    {
+        "negara": "Belgium",
+        "total_case": 45,
+        "kematian": 3,
+        "dirawat": 19,
+        "tanggal": "08/02/2025"
+    },
+    {
+        "negara": "Sweden",
+        "total_case": 61,
+        "kematian": 5,
+        "dirawat": 26,
+        "tanggal": "09/02/2025"
+    },
+    {
+        "negara": "Norway",
+        "total_case": 38,
+        "kematian": 2,
+        "dirawat": 16,
+        "tanggal": "10/02/2025"
+    },
+    {
+        "negara": "Denmark",
+        "total_case": 57,
+        "kematian": 4,
+        "dirawat": 22,
+        "tanggal": "11/02/2025"
+    },
+    {
+        "negara": "Finland",
+        "total_case": 42,
+        "kematian": 3,
+        "dirawat": 18,
+        "tanggal": "12/02/2025"
+    },
+    {
+        "negara": "Portugal",
+        "total_case": 69,
+        "kematian": 6,
+        "dirawat": 27,
+        "tanggal": "13/02/2025"
+    },
+    {
+        "negara": "Austria",
+        "total_case": 58,
+        "kematian": 4,
+        "dirawat": 23,
+        "tanggal": "14/02/2025"
+    },
+    {
+        "negara": "Switzerland",
+        "total_case": 67,
+        "kematian": 5,
+        "dirawat": 28,
+        "tanggal": "15/02/2025"
+    },
+    {
+        "negara": "Greece",
+        "total_case": 55,
+        "kematian": 4,
+        "dirawat": 21,
+        "tanggal": "16/02/2025"
+    },
+    {
+        "negara": "Czech Republic",
+        "total_case": 41,
+        "kematian": 3,
+        "dirawat": 18,
+        "tanggal": "17/02/2025"
+    },
+    {
+        "negara": "Hungary",
+        "total_case": 46,
+        "kematian": 3,
+        "dirawat": 20,
+        "tanggal": "18/02/2025"
+    },
+    {
+        "negara": "Romania",
+        "total_case": 34,
+        "kematian": 2,
+        "dirawat": 14,
+        "tanggal": "19/02/2025"
+    },
+    {
+        "negara": "Slovakia",
+        "total_case": 28,
+        "kematian": 2,
+        "dirawat": 11,
+        "tanggal": "20/02/2025"
+    },
+    {
+        "negara": "Bulgaria",
+        "total_case": 51,
+        "kematian": 3,
+        "dirawat": 19,
+        "tanggal": "21/02/2025"
+    },
+    {
+        "negara": "Croatia",
+        "total_case": 38,
+        "kematian": 2,
+        "dirawat": 15,
+        "tanggal": "22/02/2025"
+    },
+    {
+        "negara": "Serbia",
+        "total_case": 42,
+        "kematian": 3,
+        "dirawat": 17,
+        "tanggal": "23/02/2025"
+    },
+    {
+        "negara": "Albania",
+        "total_case": 26,
+        "kematian": 1,
+        "dirawat": 9,
+        "tanggal": "24/02/2025"
+    },
+    {
+        "negara": "North Macedonia",
+        "total_case": 34,
+        "kematian": 2,
+        "dirawat": 13,
+        "tanggal": "25/02/2025"
+    },
+    {
+        "negara": "Bosnia and Herzegovina",
+        "total_case": 30,
+        "kematian": 2,
+        "dirawat": 12,
+        "tanggal": "26/02/2025"
+    },
+    {
+        "negara": "Montenegro",
+        "total_case": 22,
+        "kematian": 1,
+        "dirawat": 8,
+        "tanggal": "27/02/2025"
+    },
+    {
+        "negara": "Kosovo",
+        "total_case": 24,
+        "kematian": 1,
+        "dirawat": 9,
+        "tanggal": "28/02/2025"
+    },
+    {
+        "negara": "Moldova",
+        "total_case": 20,
+        "kematian": 1,
+        "dirawat": 7,
+        "tanggal": "01/03/2025"
+    },
+    {
+        "negara": "Liechtenstein",
+        "total_case": 18,
+        "kematian": 1,
+        "dirawat": 6,
+        "tanggal": "02/03/2025"
+    },
+    
+    {
+        "negara": "Germany",
+        "total_case": 70,
+        "kematian": 5,
+        "dirawat": 30,
+        "tanggal": "01/03/2025"
+    },
+    {
+        "negara": "France",
+        "total_case": 80,
+        "kematian": 6,
+        "dirawat": 33,
+        "tanggal": "02/03/2025"
+    },
+    {
+        "negara": "Italy",
+        "total_case": 58,
+        "kematian": 4,
+        "dirawat": 24,
+        "tanggal": "03/03/2025"
+    },
+    {
+        "negara": "Spain",
+        "total_case": 75,
+        "kematian": 6,
+        "dirawat": 32,
+        "tanggal": "04/03/2025"
+    },
+    {
+        "negara": "United Kingdom",
+        "total_case": 66,
+        "kematian": 5,
+        "dirawat": 28,
+        "tanggal": "05/03/2025"
+    },
+    {
+        "negara": "Poland",
+        "total_case": 51,
+        "kematian": 3,
+        "dirawat": 19,
+        "tanggal": "06/03/2025"
+    },
+    {
+        "negara": "Netherlands",
+        "total_case": 55,
+        "kematian": 4,
+        "dirawat": 22,
+        "tanggal": "07/03/2025"
+    },
+    {
+        "negara": "Belgium",
+        "total_case": 48,
+        "kematian": 3,
+        "dirawat": 20,
+        "tanggal": "08/03/2025"
+    },
+    {
+        "negara": "Sweden",
+        "total_case": 63,
+        "kematian": 5,
+        "dirawat": 26,
+        "tanggal": "09/03/2025"
+    },
+    {
+        "negara": "Norway",
+        "total_case": 41,
+        "kematian": 3,
+        "dirawat": 18,
+        "tanggal": "10/03/2025"
+    },
+    {
+        "negara": "Denmark",
+        "total_case": 60,
+        "kematian": 5,
+        "dirawat": 25,
+        "tanggal": "11/03/2025"
+    },
+    {
+        "negara": "Finland",
+        "total_case": 43,
+        "kematian": 3,
+        "dirawat": 17,
+        "tanggal": "12/03/2025"
+    },
+    {
+        "negara": "Portugal",
+        "total_case": 65,
+        "kematian": 5,
+        "dirawat": 27,
+        "tanggal": "13/03/2025"
+    },
+    {
+        "negara": "Austria",
+        "total_case": 62,
+        "kematian": 4,
+        "dirawat": 24,
+        "tanggal": "14/03/2025"
+    },
+    {
+        "negara": "Switzerland",
+        "total_case": 68,
+        "kematian": 5,
+        "dirawat": 28,
+        "tanggal": "15/03/2025"
+    },
+    {
+        "negara": "Greece",
+        "total_case": 60,
+        "kematian": 4,
+        "dirawat": 23,
+        "tanggal": "16/03/2025"
+    },
+    {
+        "negara": "Czech Republic",
+        "total_case": 50,
+        "kematian": 3,
+        "dirawat": 19,
+        "tanggal": "17/03/2025"
+    },
+    {
+        "negara": "Hungary",
+        "total_case": 53,
+        "kematian": 4,
+        "dirawat": 22,
+        "tanggal": "18/03/2025"
+    },
+    {
+        "negara": "Romania",
+        "total_case": 47,
+        "kematian": 3,
+        "dirawat": 20,
+        "tanggal": "19/03/2025"
+    },
+    {
+        "negara": "Slovakia",
+        "total_case": 39,
+        "kematian": 2,
+        "dirawat": 15,
+        "tanggal": "20/03/2025"
+    },
+    {
+        "negara": "Bulgaria",
+        "total_case": 55,
+        "kematian": 4,
+        "dirawat": 23,
+        "tanggal": "21/03/2025"
+    },
+    {
+        "negara": "Croatia",
+        "total_case": 42,
+        "kematian": 3,
+        "dirawat": 18,
+        "tanggal": "22/03/2025"
+    },
+    {
+        "negara": "Serbia",
+        "total_case": 50,
+        "kematian": 4,
+        "dirawat": 21,
+        "tanggal": "23/03/2025"
+    },
+    {
+        "negara": "Albania",
+        "total_case": 28,
+        "kematian": 2,
+        "dirawat": 11,
+        "tanggal": "24/03/2025"
+    },
+    {
+        "negara": "North Macedonia",
+        "total_case": 37,
+        "kematian": 3,
+        "dirawat": 14,
+        "tanggal": "25/03/2025"
+    },
+    {
+        "negara": "Bosnia and Herzegovina",
+        "total_case": 32,
+        "kematian": 2,
+        "dirawat": 12,
+        "tanggal": "26/03/2025"
+    },
+    {
+        "negara": "Montenegro",
+        "total_case": 25,
+        "kematian": 1,
+        "dirawat": 10,
+        "tanggal": "27/03/2025"
+    },
+    {
+        "negara": "Kosovo",
+        "total_case": 30,
+        "kematian": 2,
+        "dirawat": 11,
+        "tanggal": "28/03/2025"
+    },
+    {
+        "negara": "Moldova",
+        "total_case": 27,
+        "kematian": 2,
+        "dirawat": 10,
+        "tanggal": "29/03/2025"
+    },
+    {
+        "negara": "Liechtenstein",
+        "total_case": 20,
+        "kematian": 1,
+        "dirawat": 7,
+        "tanggal": "30/03/2025"
+    }
+]
+}

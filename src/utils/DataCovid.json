@@ -1,0 +1,16 @@
+[
+  {
+    "Country": "Aceh",
+    "Province": "Aceh",
+    "CountryCode": "ID",
+    "Slug": "indonesia",
+    "NewConfirmed": 3356,
+    "TotalConfirmed": 421731,
+    "NewDeaths": 113,
+    "TotalDeaths": 14259,
+    "NewRecovered": 3785,
+    "TotalRecovered": 353282,
+    "Date": "2020-11-05T16:53:46Z",
+    "Premium": {}
+  }
+]
