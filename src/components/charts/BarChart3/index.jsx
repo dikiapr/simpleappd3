@@ -93,7 +93,7 @@ const BarChart3 = () => {
     <div>
       {/* <h1>Hallo World</h1> */}
       {/* Form untuk input data */}
-      <div style={{ marginBottom: "20px" }}>
+      {/* <div style={{ marginBottom: "20px" }}>
         <input
           type="number"
           value={inputValue}
@@ -105,7 +105,7 @@ const BarChart3 = () => {
         <button onClick={handleAddData} style={{ padding: "5px 10px" }}>
           Add Data
         </button>
-      </div>
+      </div> */}
 
       {/* Barchart */}
       <div className="pl-10">
