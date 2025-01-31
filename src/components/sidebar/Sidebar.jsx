@@ -39,6 +39,12 @@ const Sidebar = () => {
               {!isSidebarOpen && <span className="text-center">3📈</span>}
             </Link>
           </li>
+          <li className={location.pathname === "/dashboard4" ? "bg-gray-700 p-3 rounded" : "p-3"}>
+            <Link to="/dashboard4" className="block hover:text-gray-300">
+              {isSidebarOpen && "Dashboard 4"}
+              {!isSidebarOpen && <span className="text-center">4📈</span>}
+            </Link>
+          </li>
           <li className={location.pathname === "/settings" ? "bg-gray-700 p-3 rounded" : "p-3"}>
             <Link to="/settings" className="block hover:text-gray-300">
               {isSidebarOpen && "Settings"}
