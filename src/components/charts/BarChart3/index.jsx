@@ -14,7 +14,7 @@ const BarChart3 = () => {
     const svg = d3
       .select(svgRef.current)
       .attr("width", w)
-      .attr("height", h + marginBottom) // Tambahkan tinggi untuk label
+      .attr("height", h + marginBottom)
       .style("overflow", "visible")
       .style("margin-top", "75px");
 
@@ -33,20 +33,14 @@ const BarChart3 = () => {
       .range([h, 0]);
 
     // Setting the axes
-    const xAxis = d3.axisBottom(xScale).tickSize(0); // Hilangkan garis kecil pada tick
+    const xAxis = d3.axisBottom(xScale).tickSize(0);
     const yAxis = d3.axisLeft(yScale).ticks(5);
 
     svg.append("g").call(yAxis);
 
     const xAxisGroup = svg.append("g").call(xAxis).attr("transform", `translate(0, ${h})`);
 
-    // **Rotasi label X ke bawah**
-    xAxisGroup
-      .selectAll("text")
-      .style("text-anchor", "end") // Posisi anchor agar rapi
-      .attr("transform", "rotate(-45)") // Putar 45 derajat
-      .attr("dx", "-0.8em") // Geser horizontal agar lebih rapi
-      .attr("dy", "0.5em"); // Geser sedikit ke bawah agar sejajar
+    xAxisGroup.selectAll("text").style("text-anchor", "end").attr("transform", "rotate(-45)").attr("dx", "-0.8em").attr("dy", "0.5em");
 
     // Setting the SVG data
     svg
@@ -58,7 +52,7 @@ const BarChart3 = () => {
       .attr("y", (d) => yScale(d.age))
       .attr("width", xScale.bandwidth())
       .attr("height", (d) => h - yScale(d.age))
-      .attr("fill", "steelblue")
+      .attr("fill", (d) => (d.gender === "male" ? "#1f77b4" : "#ff7f0e")) // Set warna berdasarkan gender
       .on("mouseenter", (event, d) => {
         const rect = event.target.getBoundingClientRect();
         setTooltip({
