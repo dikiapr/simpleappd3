@@ -75,17 +75,15 @@ const BarChart3 = () => {
 
   useEffect(() => {
     const handleMessage = (event) => {
-      const { type, payload } = event.data;
-      if (type === "updateData") {
-        setData(payload);
+      if (event.data && event.data.type === "updateData") {
+        console.log("Received Data:", event.data.payload);
+        setData(event.data.payload.userData); // Data untuk Barchart
+        // setGenderData(event.data.payload.genderData);  // Data untuk Piechart
       }
     };
 
     window.addEventListener("message", handleMessage);
-
-    return () => {
-      window.removeEventListener("message", handleMessage);
-    };
+    return () => window.removeEventListener("message", handleMessage);
   }, []);
 
   return (

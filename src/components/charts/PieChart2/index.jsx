@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
-import datasumatera from "../../../utils/DataSumatera.json";
 import datajawa from "../../../utils/DataJawa.json";
 
 const PieChart2 = ({ property }) => {
@@ -41,10 +40,7 @@ const PieChart2 = ({ property }) => {
     const svg = d3.select(myElementRef.current);
     svg.selectAll("*").remove();
 
-    const color = [
-      "#ef4444", "#f97316", "#f59e0b", "#eab308", "#84cc16",
-      "#22c55e", "#10b981", "#14b8a6", "#06b6d4", "#0ea5e9"
-    ];
+    const color = ["#ef4444", "#f97316", "#f59e0b", "#eab308", "#84cc16", "#22c55e", "#10b981", "#14b8a6", "#06b6d4", "#0ea5e9"];
 
     const pie = d3.pie().value((d) => d.value);
     const dataReady = pie(pieData);
@@ -52,7 +48,9 @@ const PieChart2 = ({ property }) => {
     const arcGenerator = d3.arc().innerRadius(0).outerRadius(radius);
 
     // Create tooltip div
-    const tooltip = d3.select("body").append("div")
+    const tooltip = d3
+      .select("body")
+      .append("div")
       .attr("class", "tooltip")
       .style("position", "absolute")
       .style("visibility", "hidden")
@@ -76,13 +74,11 @@ const PieChart2 = ({ property }) => {
       .attr("opacity", 0.5)
       .attr("transform", `translate(${radius},${radius})`)
       .on("mouseover", function (event, d) {
-        tooltip.style("visibility", "visible")
-          .text(`${d.data.label}: ${d.data.propertyValue}`);
+        tooltip.style("visibility", "visible").text(`${d.data.label}: ${d.data.propertyValue}`);
         d3.select(this).attr("fill", "navy");
       })
       .on("mousemove", function (event) {
-        tooltip.style("top", (event.pageY - 10) + "px")
-          .style("left", (event.pageX + 10) + "px");
+        tooltip.style("top", event.pageY - 10 + "px").style("left", event.pageX + 10 + "px");
       })
       .on("mouseout", function (event, d) {
         tooltip.style("visibility", "hidden");
