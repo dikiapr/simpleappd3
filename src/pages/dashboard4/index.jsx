@@ -4,9 +4,9 @@ import PieChart3 from "../../components/charts/PieChart3";
 const Dashboard4 = () => {
   return (
     <div>
-      {/* <div className="flex justify-center items-center">
+      <div className="flex justify-center items-center">
         <PieChart3 />
-      </div> */}
+      </div>
       <div className="flex justify-center items-center">
         <BarChart3 />
       </div>
